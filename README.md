@@ -22,7 +22,10 @@ After installed, double click the cat icon (Scratch icon) and run Scratch. If yo
     
 
 ### Terminologies
-SpriteMain object (a cat) that behaves as you program.CategoryThe category of blocks (scripts) that Sprite follows.StageThe stage where Sprite behaves by following scripts.Block PaletteThe list of selected blocks.Script AreaThe area for building scripts that Sprite follows.CostumeThe image that affects the appearance of Sprite
+
+![Table of terminologies](https://dl.dropboxusercontent.com/u/2819285/table_terminologies.png)
+
+
 ### First programming (making Sprite walk)　
 
 1. For putting workshop participants in the same status, click "File" -> "New" in the menu bar. (Note: Don't use pronouns, such as "this" and "that", if possible. And repeat the instruction if needed.) You don't need to click "File" -> "New" if you have just run Scratch. If a dialog appeared to confirm saving the existing scripts, click "No". (If there is a participant who really want to save the scripts, treat individually.) Then, facilitators confirm that each participant's Scratch status is 1). selected "Motion" category, 2). no scripts in script area, and 3). a cat (Sprite) at the center of stage.
