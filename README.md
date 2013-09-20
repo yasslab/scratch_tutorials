@@ -39,8 +39,7 @@ While dragging and dropping, facilitators need to carefully observe kids, and su
 To make a program, drag a "move 10 steps" block, and bring it to the script area, the gray window at the center. But just bringing the block doesn't change anything; still, it's the same situation that clicking a block makes the sprite move.  
 So then, click "Control" (the top-right orange block in the top-left window), bring "forever" block to the script area, and pinch the "move 10 steps" block (you will see that the C-shaped block changes when it's close to the other block).  
 If you click the "forever" block, then the sprite moves forever until it touches the edge of right side. You can drag its tails and bring it back to the center of stage, but it repeats again.  
-動きを止めるには画面右上の赤い八角形のボタン(赤信号)をクリックする。ネコが止まったらドラッグして、ステージの中央に戻す。これで最初のプログラムができた(さきほどの手動操作と対比させる)。  
-ファシリテーターはそれぞれのステップで子供たちの足並みが揃っているかを常に確認し、遅れていたら適宜サポート。
+To stop moving, click the red octagonal button at the top right. When the sprite stopped, bring it back to the center of stage. Now, you made a first program. (Note: It's good timing for participants to compare the differences between clicking a block many times and making a program.) Facilitators need to carefully check if each kid successfully followed the instructions. If there is a kid who didn't, support him/her individually.
 4. 赤信号が止まれなら、その隣の緑の旗のボタンをクリックすると動きそうだけど、動かない。  
 これを動かすには、「緑の旗がクリックされたとき」ブロックを「ずっと」の上に付ける。ブロックをドラッグして近づけると、白いハイライトが表示されるので、そこで離すと合体する。  
 これで緑の旗をクリックすると動き、赤信号をクリックすると止まるようになる。
