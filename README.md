@@ -40,18 +40,17 @@ To make a program, drag a "move 10 steps" block, and bring it to the script area
 So then, click "Control" (the top-right orange block in the top-left window), bring "forever" block to the script area, and pinch the "move 10 steps" block (you will see that the C-shaped block changes when it's close to the other block).  
 If you click the "forever" block, then the sprite moves forever until it touches the edge of right side. You can drag its tails and bring it back to the center of stage, but it repeats again.  
 To stop moving, click the red octagonal button at the top right. When the sprite stopped, bring it back to the center of stage. Now, you made a first program. (Note: It's good timing for participants to compare the differences between clicking a block many times and making a program.) Facilitators need to carefully check if each kid successfully followed the instructions. If there is a kid who didn't, support him/her individually.
-4. 赤信号が止まれなら、その隣の緑の旗のボタンをクリックすると動きそうだけど、動かない。  
-これを動かすには、「緑の旗がクリックされたとき」ブロックを「ずっと」の上に付ける。ブロックをドラッグして近づけると、白いハイライトが表示されるので、そこで離すと合体する。  
-これで緑の旗をクリックすると動き、赤信号をクリックすると止まるようになる。
-5. 今度は、行きっぱなしのネコが自動的に戻ってくるようにしたい。そのためには、「動き」カテゴリーの「もし端についたら、跳ね返る」ブロックを「ずっと」の中、「10歩動かす」の下に入れる。  
-緑の旗をクリックするとネコがステージを左右に往復する。  
-(なにか変なことがないか聞く)ネコが右から左に進むとき、ひっくり返るのが変なので、画面中央の上、小さなネコのアイコンの左にある「↔」(左右に反転するだけ)ボタンをクリックする。
-6. (まだ変なことがないか聞く)よく見ると、ネコの足が動いていない。これを動くようにしたい。  
-まず、赤信号をクリックして動きを止める。  
-画面中央、スクリプトエリアの上に「コスチューム」というタブがある。これをクリックするとスクリプトエリアが切り替わり、ネコの絵が2枚表示される。これがネコの衣装(コスチューム)。絵のアイコンをクリックすると、ステージのネコの絵が切り替わる(まちがえてダブルクリックするとペイントエディターが開くので、その場合は「キャンセル」で閉じる)。この切り替えを高速で行えば、パラパラマンガのように、足が動いて見えるのではないか。  
-カテゴリーを「見た目」(左の上から2段目。紫色)に切り替え、「次のコスチュームにする」ブロックをクリックしてみる。すると、ネコの絵が切り替わる。つまり、このブロックをスクリプトの「ずっと」のなかに入れれば、動いて見えるはず。「次のコスチュームにする」を画面の真ん中(スクリプトエリア)にドラッグして、「ずっと」の中、「もし端についたら、跳ね返る」の下に付ける。  
-緑の旗をクリックすると足を動かしながらネコが動き始める。
-7. ネコが左右に動くだけでは面白く無いので、ステージ全体を動きまわるようにしたい。そのためにはネコの向きを変えれば良い。画面中央の上、小さなネコのアイコンの青い線がネコの向きを示しているので、この線をドラッグするとネコの向きが変わる。
+4. It seems that the sprite moves when you click the green flag at the next of red light, but it doesn't move.
+To make it move by clicking the green flag, you need to put the "when (green flag icon) clicked" block on the "forever" block. Drag the block and bring it close to the "forever" block, you will see a white line between the blocks. Then, drop the block. The two blocks stick together.
+Now, clicking the green flag starts moving the sprite, and clicking the red light stops moving it.
+5. Next, let's make the sprite move back when it touches on the right edge. To make it, drag "if on edge, bounce" block in "Motion" category, and put it inside "forever" block (just after the "move 10 steps" block).
+Now, clicking the green flag makes the sprite move right and left forever.
+It's good timing to ask if there is something strange; the sprite turns upside down when moving back. Specifically, you would like to stop it when the sprite moves from right to left. To stop it, click the ↔ icon, next to the sprite icon in the top center window, in order to make the sprite turn only horizontally when moving back.
+6. If you keep asking if there is something strange other than that, you would hear that the sprite's legs don't move at all. So, you should make it move.
+First, click the red light to stop moving.
+In the center window, at the top next of script area, there is a "Costumes" tab. When you click the tab, the script area is switched and two sprite images are displayed. These are the costumes for the sprite. When you click the costume not selected now, the sprite's costume in the stage will be switched. (Note: If you double click the costume, a paint editor for the costume will be opened up. In that case, click the "Cancel" button at the right bottom to close it.) Now, you would get an idea that you can make the sprite's legs move like a flip cartoon if you switch the costume in a timely manner.
+To embody the idea, click purple-colored "Looks" category (at the next bottom to "Motion" category), click "next costume" block. Then, you will see that the sprite's costume on the stage is changed to the next. So, putting this block inside the "forever" block makes the sprite's legs move. Now, drag the "next costume" block, and drop it at the next bottom to "if on edge, bounce" block inside "forever" block.
+7. One more step: Now you created a program that make Sprite walk. However, just making the sprite move right and left might not be so interesting, so let's make it move around in the whole stage. All you need to do is just to change the direction of sprite. At the top center, there is a blue line over the sprite icon, which shows its direction. So, drag the line and change the direction as you want. Then, you can make the sprite move around in the stage.
 
 ### ネコから逃げろ！ゲームのつくり方　　
 
