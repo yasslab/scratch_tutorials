@@ -7,8 +7,7 @@ Translated by Yohei Yasukawa
 yohei at yasulab dot jp
 ```    
     
-This material is license under [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/deed.ja).  
-    
+This material is license under [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/deed.en).  
 
 ### What is "Escape from a cat!" game workshop?
 The game workshop of "Escape from a cat!" is a workshop that creates a game program by hands using [Scratch](http://scratch.mit.edu/), a visual programming language for kids. This document is written for facilitators of the workshop. This workshop targets for kids who have never made a program. And it takes 30 minutes at least, and takes about 2 hours if you would like to cover advanced topics.  
@@ -16,7 +15,7 @@ The game workshop of "Escape from a cat!" is a workshop that creates a game prog
 ### Install and run Scratch
 First, download and install the Scratch file that can run on your local machine from the following link.  
 
-- [Scratch 1.4 Download](http://info.scratch.mit.edu/ja/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81_1.4_Download)
+- [Scratch 1.4 Download](http://scratch.mit.edu/scratch_1.4/)
 
 After installed, double click the cat icon (Scratch icon) and run Scratch. If you want to exit, click "Exit" from "File" in the menu bar.  
     
@@ -83,16 +82,16 @@ To re-open your game, click "Open..." from "File" menu, click "Desktop" icon in 
 
 ### Share your game
 
-1. 完成した作品をインターネットで共有し、ブラウザーから遊べるようにする。事前に参加者全員で共有するアカウントを作成しておき、ログイン名とパスワードをホワイトボードやプロジェクターで掲示する(自宅で続けることを考えるとプリントで配布することが望ましい)。  
-「共有」メニューの「ネットワーク上でこのプロジェクトを共有…」を選ぶと、ダイアログが表示されるので、示したログイン名とパスワード通り入力する。その他の注意事項は保存と同じ。
-2. アップロード成功のダイアログが表示されたら、「OK」ボタンを「押さず」に青字の「scratch.mit.edu」のリンクをクリックする。  
-失敗のダイアログが表示されたら、打ち間違いに気をつけて、再度1を行う。  
-「OK」ボタンを押してダイアログを閉じてしまったときは、「共有メニュー」から「スクラッチのWebサイトを開く」を選ぶ。  
-ブラウザーが開くので、ログインをクリックして、上記のユーザー名とパスワードを入力する。  
-作品のサムネイルから自分の作品(ニックネーム)を探して、クリックで開く(2ページ目以降にある場合もある)。自分の作品だけでなく、他の子の作品でも遊ぶように促す。  
-自宅や学校などでも、この方法で作品を開くことができる。
-3. スクラッチで再度変更する場合は、「プロジェクトのダウンロード」の作品名のリンクをクリックし、ファイルをダウンロードする。このファイルをスクラッチから開くと中を見たり、直したりできる。変更したもの(リミックス)は再度共有できる。公開されたスクラッチ作品のライセンスははCC BY-SAなので、他の人の作品をリミックスしてもよい(むしろそうすべき。パクリや盗作ではないことをきちんと説明する。詳細は [遊ぶための約束](http://info.scratch.mit.edu/ja/License_to_play)を参照)。
+1. When you share your game online, anyone can play it with a web browser. If you are planning to teach how to share, create an account for the workshop and share it with participants, preferably before the workshop starts. And write the login name (username) and password of that account on a whiteboard, or show them with a projector . (Note: If you would like kids to make a program after the workshop, distribute them with a paper or something portable).  
+Click "Share This Project Online..." from "Share" menu, then a dialog is popped up and require login name (username) and password. So, let them type the shared account's ID and password. In the same way as you saved the project, you don't need to fill in other input forms, such as Tags and Project notes.
+2. If you successfully uploaded your game, a dialog that says "Upload succeeded!" is popped up. Then, do NOT click "OK" button; instead, click the blue text, "scratch.mit.edu".  
+If you failed uploading (generally because of mistype), then a dialog that says "Failed" is popped up. In such cases, double check given login name (username) and password, and re-try uploading.  
+Also, in case that you clicked "OK" and close the dialog by mistake, click "Go To Scratch Website…" from "Share" menu.  
+Then, your default web browser is opened up (when not running), and automatically go to Scratch website. Now, regardless of succeeded/failed uploading, let kids go to Scratch website, click "Sign in" at the top right, and type the username and password.  
+If successfully logged in, "Sign in" is replaced with your thumbnail picture, so click the picture, and click "My Stuff". Then, let kids find out their game by the game name that they typed, and if found, click it. (Note: the game name cannot be on the top page, if so, click "Load More" to look further.) Also, make sure to encourage kids to play other games that the other students in the workshop created.  
+In this way, they can play any game from schools, home and any places that can access to Scratch website.
+3. The final instruction is to teach how to remix games online. To remix, from the any game page in the Scratch website, click "See inside" button at the top right, then you can see, remix, and re-share its scripts with Scratch 2.0. (Note: In Scratch 2.0, the layout of each area is slightly changed, but basically it has same functions in Scratch 1.4. So, you can instantly understand which area in Scratch 2.0 is corresponding to which area in Scratch 1.4.) All games uploaded to Scratch website are licensed under CC BY-SA, so you should encourage kids to remix and re-share others' games. (Final note: you should explain why remixing and re-sharing others' games uploaded to Scratch website is not pirates. For details, see [License to play](http://info.scratch.mit.edu/License_to_play).)
 
     
-  ![クリエイティブ・コモンズ・ライセンス](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)  
-この 作品 は [クリエイティブ・コモンズ 表示 - 継承 3.0 非移植 ライセンスの下に提供されています。](http://creativecommons.org/licenses/by-sa/3.0/deed.ja)  
+![Creative Commons License](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)  
+This material is licensed under [Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)](http://creativecommons.org/licenses/by-sa/3.0/deed.en).
