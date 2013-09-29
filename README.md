@@ -22,7 +22,14 @@ After installed, double click the cat icon (Scratch icon) and run Scratch. If yo
 
 ### Terminologies
 
-![Table of terminologies](https://dl.dropboxusercontent.com/u/2819285/table_terminologies.png)
+| Name				| Meaning       |
+| -------------	|---------------|
+| Sprite			| Main object (character) that behaves as you program on the stage.|
+| Category			| The category of blocks (scripts) that Sprite follows.|
+| Stage				| The area in which Sprite behaves by following scripts.|
+| Block Palette	| The list of selected blocks.|  
+| Script Area	| The area for Building scripts that Sprite follows.|
+| Costume			| The image that affects the appearance of Sprite. |
 
 ### First programming (making Sprite walk)　
 
