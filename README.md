@@ -4,7 +4,7 @@ Created by Kazuhiro Abe
 abee at squeakland dot jp  
 
 Translated by Yohei Yasukawa
-yohei at yasulab dot jp
+yohei@yasslab.jp from YassLab
 ```    
     
 This material is license under [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/deed.en).  
